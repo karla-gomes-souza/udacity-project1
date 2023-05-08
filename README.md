@@ -10,18 +10,27 @@ Project 1 - Data Scientist Nanodegree (Udacity)
 5. Licensing, Authors, and Acknowledgements
 
 ### Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+It is necessary to install the researchpy library to run the code. The python version must be >= 3.9.
 
 ### Project Motivation
-- Is there any difference between performance/score in disciplines by gender?
+
+This project is dedicated to the course of the Data Scientist nanodegree program from Udacity. 
+It corresponds to the Project: Writing a Data Science Blog Post. To come up with the analysis, the dataset chosen was
+"Students performance in exams" from Kaggle.
+
+The three main questions to be answered are:
 - Does the parental level of education has any impact to the overall average score?
 - The students who completed the test preparation were able to get a higher average score than those who didn’t?
+- Is there any difference between performance/score in disciplines by gender?
+
 
 ### File Descriptions
-To be written
+There are 2 notebooks. The data_analysis.ipynb file corresponds to an exploratory and statistical analysis in the data,
+where the main goal is to use those tools to answer the three questions mentioned above. The other file, predict_score.ipynb,
+corresponds to the linear regression model used to predict the average score of all subjects.
 
 ### Results
-To be written
+The main findings can be found [here].
 
 ### Licensing, Authors, Acknowledgements
-To be written
+The license of the data is unknown. More information about the dataset can be found [here](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
