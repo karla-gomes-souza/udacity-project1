@@ -30,7 +30,7 @@ where the main goal is to use those tools to answer the three questions mentione
 corresponds to the linear regression model used to predict the average score of all subjects.
 
 ### Results
-The main findings can be found [here].
+The main findings can be found [here](https://medium.com/@sgomes.karla/this-is-why-some-students-perform-better-than-others-3d726c50e26d).
 
 ### Licensing, Authors, Acknowledgements
 The license of the data is unknown. More information about the dataset can be found [here](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
